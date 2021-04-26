@@ -55,7 +55,7 @@ Further, a window with the settings of your webcam and microphone will open in f
 - Text chat
 
 ![Conference](https://github.com/Sashanator/WebConference/blob/main/IntershipProject/wwwroot/images/conference.png)
-There are two of me for showing that it works (2nd author is available).
+There are two of me for showing that it works (2nd author isn't available).
 
 ## Authors:
 - Alexander Ssorin – project developer  – [Sashanator](https://github.com/Sashanator)
